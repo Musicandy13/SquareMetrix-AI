@@ -12,3 +12,5 @@
 @media(max-width:600px){.yield-section{padding-top:0}.yield-grid{padding-top:32px}.yield-preview{padding:18px}.yield-preview-hero strong{font-size:32px}.yield-preview-sensitivity{align-items:flex-start;flex-direction:column}.yield-preview-cards small{font-size:9px}.yield-preview-cards b{font-size:15px}}
 
 .product-copy h3.product-tagline{font-size:18px;font-weight:500;color:var(--bright);margin:8px 0 18px;letter-spacing:0}
+
+.yield-app-icon{display:block;width:66px;height:66px;border-radius:15px;object-fit:cover;box-shadow:0 6px 25px #030e2660}
